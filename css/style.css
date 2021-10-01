@@ -1,0 +1,19 @@
+.container h3
+{
+    color: #aaa;
+    font-size: 35px;
+    font-weight: 600;
+
+}
+.container
+{
+    padding: 20px;
+    border-bottom: 1px solid #999;
+}
+.form-control:focus
+{
+    border-color: black;
+    box-shadow: none;
+    color: blanchedalmond;
+    color: black;
+}
